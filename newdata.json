@@ -2,10 +2,12 @@
 2.	Test 2
 {
 
-"Surname": "SHchepina",
+"Surname": "Shchepina",
 
 "Age": 35,
 
-"Salary": 70000
+"Salary": 70000,
+
+"Location": "Seaside"
 
 }
